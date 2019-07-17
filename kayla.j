@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-04/schema#","description":"d","type":"object","required":[],"integrations":["Hadoop","UA"],"properties":{}}
